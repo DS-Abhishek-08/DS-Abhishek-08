@@ -1,16 +1,37 @@
-## Hi there 👋
+## # 👋 Hey there, I'm Abhishek!
 
-<!--
-**DS-Abhishek-08/DS-Abhishek-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist | Python 🐍 | Pandas 📊 | NumPy 🔢 | Machine Learning Enthusiast 🤖
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently mastering *Python for Data Science*
+- 🧠 Passionate about solving real-world problems using data
+- 🛠 Working on projects involving *data cleaning, **automation, and **analysis*
+- 🎯 Goal: To land a high-impact *international data science role* by next year
+
+---
+
+## 🧰 Tech Stack
+- Languages: Python, SQL
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn
+- Tools: Jupyter, VS Code, Git, GitHub
+- Currently exploring: Scikit-learn, APIs, Data Visualization
+
+---
+
+## 📈 My Learning Journey
+I'm building a data science portfolio with:
+- 🧱 Logic-based Python mini-projects
+- 📊 Exploratory Data Analysis (EDA) on real datasets
+- 🚀 Sharing progress on GitHub and soon on LinkedIn
+
+---
+
+## 📬 Connect With Me
+- 💼 [LinkedIn]() 
+- 📂 Check out my projects below 👇
+
+---
+
+> “Code, clean, analyze, repeat.” – The Data Whisperer 🔍
